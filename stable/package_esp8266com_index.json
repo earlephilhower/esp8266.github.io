@@ -12,7 +12,7 @@
         {
           "category": "ESP8266",
           "name": "esp8266",
-          "url": "https://github.com/esp8266/Arduino/releases/download/6.6.0/esp8266-6.6.0.zip",
+          "url": "https://github.com/esp8266/Arduino/releases/download/6.6.9/esp8266-6.6.9.zip",
           "version": "null",
           "architecture": "esp8266",
           "archiveFileName": "esp8266-null.zip",
@@ -138,10 +138,10 @@
             }
           ],
           "help": {
-            "online": "https://arduino-esp8266.readthedocs.io/en/6.6.0/"
+            "online": "https://arduino-esp8266.readthedocs.io/en/6.6.9/"
           },
           "size": "43334812",
-          "checksum": "SHA-256:12235443620b30571b716c44c8d1f5b78f1a7534d5aba7fe7bdbc4e63ba6ddb7"
+          "checksum": "SHA-256:d3a01898fc5eebe47f5decb8a532bbd3aa49d668bb16b8b6845f886feeb143f3"
         },
         {
           "category": "ESP8266",
